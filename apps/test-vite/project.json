@@ -1,0 +1,9 @@
+{
+  "name": "test-vite",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/test-vite/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project test-vite --web",
+  "targets": {}
+}
